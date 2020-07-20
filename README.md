@@ -8,3 +8,6 @@ To run the simulations ('/Simulations'), the example data from which the pink no
 downloaded from https://drive.google.com/drive/folders/1qXaIFYu4IxqytHlClIO5Xe3jYcBfA1XY?usp=sharing
 
 For questions, please email n.dijkstra [at] ucl.ac.uk
+
+
+This code is associated with the paper from Dijkstra et al., "Neural dynamics of perceptual inference and its reversal during imagery". eLife, 2020. http://doi.org/10.7554/eLife.53588
